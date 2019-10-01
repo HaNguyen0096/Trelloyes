@@ -1,4 +1,4 @@
-Demo: https://hanguyen0096.github.io/Trelloyes/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
